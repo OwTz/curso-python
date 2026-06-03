@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Curso de Python
 
 <p> esse repositório é destinado ao cumprimento das atividades e exercicios do curso de Python - Gustavo Guanabara </p>
@@ -12,7 +12,7 @@
 ## Criador e desenvolvedor
 | Criador | Descrição |
 | ---- | ---- |
-| Sérgio Marques | Desenvolvedor WEb Backend |
+| Sérgio Marques | Desenvolvedor WEB Back-end |
 
 =======
 # Curso de Python
