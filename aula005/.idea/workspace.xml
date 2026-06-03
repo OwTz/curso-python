@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="278456e4-5b3f-4f2e-a86d-345e4d19768e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula06-b.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000013" />
+      <entry key="S2" value="1.000550294204633" />
+      <entry key="S5" value="1.1588408433222863" />
+      <entry key="S10" value="2.275923857479376" />
+      <entry key="S30" value="8.402512574557985" />
+      <entry key="S60" value="16.64543737639496" />
+      <entry key="M2" value="28.38711212171061" />
+      <entry key="M5" value="48.55500805573049" />
+      <entry key="M10" value="67.64922966382176" />
+      <entry key="M15" value="78.26580888864748" />
+      <entry key="M30" value="92.53598843316644" />
+      <entry key="H1" value="101.49885958983157" />
+      <entry key="H2" value="106.53963770230527" />
+      <entry key="H4" value="109.21500185602203" />
+      <entry key="D1" value="111.5280100878281" />
+      <entry key="W1" value="111.93237847006985" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="6.620743911687751E-14" />
+      <entry key="MS500" value="0.0023130304919016264" />
+      <entry key="S2" value="0.21930338718320552" />
+      <entry key="S5" value="0.545027195344498" />
+      <entry key="S10" value="0.7384770451592949" />
+      <entry key="S30" value="0.9868515405884647" />
+      <entry key="S60" value="1.4559863074063397" />
+      <entry key="M2" value="2.395386177934864" />
+      <entry key="M5" value="4.295665566820508" />
+      <entry key="M10" value="6.079750024241892" />
+      <entry key="M15" value="7.042210401168009" />
+      <entry key="M30" value="8.309444499570677" />
+      <entry key="H1" value="9.092681906025142" />
+      <entry key="H2" value="9.529508886741711" />
+      <entry key="H4" value="9.760368274864982" />
+      <entry key="D1" value="9.959436425525505" />
+      <entry key="W1" value="9.994189688627772" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.02468879099573053" />
+      <entry key="MS500" value="0.476984280403256" />
+      <entry key="S2" value="0.8775853125148709" />
+      <entry key="S5" value="1.3692619489976212" />
+      <entry key="S10" value="2.7296643534832437" />
+      <entry key="S30" value="9.170176044908288" />
+      <entry key="S60" value="17.927325299866595" />
+      <entry key="M2" value="30.656048352915853" />
+      <entry key="M5" value="52.775172343874864" />
+      <entry key="M10" value="73.68000275920672" />
+      <entry key="M15" value="85.27129182478865" />
+      <entry key="M30" value="100.82435991480742" />
+      <entry key="H1" value="110.58016082046817" />
+      <entry key="H2" value="116.0632197858774" />
+      <entry key="H4" value="118.97234409808964" />
+      <entry key="D1" value="121.48693316035246" />
+      <entry key="W1" value="121.9264945975653" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EduBRUeqWZZM2AOZE4iywJN3np" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Aula06-b.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Aula06-b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aula005" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula06-b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Aula06-b" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278456e4-5b3f-4f2e-a86d-345e4d19768e" name="Changes" comment="" />
+      <created>1780520631125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780520631125</updated>
+      <workItem from="1780520632134" duration="1221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aula005$Aula06_b.coverage" NAME="Aula06-b Coverage Results" MODIFIED="1780521701369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aula005$main.coverage" NAME="main Coverage Results" MODIFIED="1780520769217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
