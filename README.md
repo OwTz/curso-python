@@ -21,13 +21,7 @@
 
 ## Estruturas
 
-[ aula xxx] -> pastas com código testes <br>
+[ aula xxx] -> pastas com código testes para aulas de aprendizagem <br>
 [ desafio xxx] -> resposta dos desafios do curso de Python <br>
 
 
-## Criador e desenvolvedor
-| Criador | Descrição |
-| ---- | ---- |
-| Sérgio Marques | Desenvolvedor WEb Backend |
-
->>>>>>> c0b6397c5cab73ab1e6b6687d3ff72d8c8fda0aa
